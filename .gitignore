@@ -2,4 +2,4 @@
 __pycache__/
 venv
 db.sqlite3
-./Intellegia/secret.json
+Intellegia/secret.json
